@@ -1,0 +1,107 @@
+header .row nav p {
+  color: #00695c;
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+header {
+  color: #00695c;
+}
+
+.bgk {
+  color: #00695c;
+}
+
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  
+ 
+}
+
+div > h1 {
+  font-size: 1.8rem;
+}
+
+nav > p {
+  cursor: pointer;
+}
+
+
+footer {
+  margin-top: 20px;
+}
+
+footer div {
+  display: flex;
+  align-items: center;
+}
+
+/* Customizations of Bootstrap classes */
+
+header .row {
+  display: flex;
+  align-items: center;
+}
+
+.col-sm-4 p {
+  margin: 25px 20px 15px;
+  min-width: 60px;
+  padding: 1px;
+}
+
+section.container .row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  height: 350px;
+  background-image: url("http://res.cloudinary.com/marpenncloud/image/upload/v1526950439/technology-785742_1280-1280x430_peyzu6.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotron h2 {
+  background-color: #FFFFFF;
+  display: inline-block;
+  color: #2BBBAD;
+  font-weight: 700;
+  padding: 10px 35px;
+  border-radius: 5px;
+}
+
+
+
+
+
+.col-sm-1 img {
+  min-width: 32px;
+  min-height: 33px;
+}
+
+.rowBody {
+  text-align: center;
+}
+
+.profileP {
+  margin-left: 33%;
+}
+
+.contact {
+  margin-right: 200px;
+}
